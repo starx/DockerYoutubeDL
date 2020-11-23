@@ -1,4 +1,4 @@
-FROM python:3-alpine
+FROM starx/python3-alpine3.7
 MAINTAINER starx <connect@starx.io>
 
 RUN set -xe \
